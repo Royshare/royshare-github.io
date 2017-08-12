@@ -1731,10 +1731,11 @@ pre .javascript .function {
 .site-author-image {
   display: block;
   margin: 0 auto;
-  padding: 2px;
-  max-width: 120px;
+  max-width: 96px;
   height: auto;
-  border: 1px solid #eee;
+  border: 2px solid #333;
+  padding: 2px;
+  border-radius: 50%;
 }
 .site-author-name {
   margin: 0;
@@ -1819,7 +1820,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #59e562;
+  background: #e96271;
 }
 .links-of-blogroll {
   font-size: 13px;
