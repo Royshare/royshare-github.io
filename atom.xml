@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rui&#39;s Home</title>
+  <title>Rui&#39;s World</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-12T05:35:25.959Z</updated>
+  <updated>2017-08-12T06:38:24.291Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,21 +20,20 @@
     <link href="http://yoursite.com/2017/07/30/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F/"/>
     <id>http://yoursite.com/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/</id>
     <published>2017-07-31T04:37:35.000Z</published>
-    <updated>2017-08-12T05:35:25.959Z</updated>
+    <updated>2017-08-12T06:38:24.291Z</updated>
     
-    <content type="html"><![CDATA[<p>##引言<br>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br><a id="more"></a><br><strong>本文涉及软件版本：</strong></p>
-<ul>
+    <content type="html"><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a><strong>引言</strong></h2><p>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br><a id="more"></a></p>
+<h2 id="本文涉及软件版本："><a href="#本文涉及软件版本：" class="headerlink" title="本文涉及软件版本："></a><strong>本文涉及软件版本：</strong></h2><ul>
 <li>Microsoft Office 2016</li>
 <li>MathType 6.9 (13030500)​</li>
 <li>Windows10 资源管理器​</li>
 </ul>
-<p>##操作步骤：</p>
-<ol>
+<h2 id="操作步骤："><a href="#操作步骤：" class="headerlink" title="操作步骤："></a><strong>操作步骤：</strong></h2><ul>
 <li><p>判断所安装的office版本。例如，进入 Word 后，点击文件-账户-关于Word。如图2所示。</p>
 <p> <img src="http://upload-images.jianshu.io/upload_images/670659-98a2394f0f739b6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图2 Office版本"></p>
 </li>
 <li><p>找到 MathType安装目录下的MathPage和Office support文件夹，根据上一步确定的word版本，选择对应的32位或者64位文件夹，分别找到文件“MathPage.wll”和“MathType Commands 6 For Word 2010/2013”进行复制。至于选择2010或2013要依据安装的Office版本。如果是 Word2016 则选择“MathType Commands 6 For Word 2013”。如图3、图4所示。</p>
-<p> <img src="http://upload-images.jianshu.io/upload_images/670659-ab55f7cc23976b7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图3 寻找文件"></p>
+<p>  <img src="http://upload-images.jianshu.io/upload_images/670659-ab55f7cc23976b7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图3 寻找文件"></p>
 <p><img src="http://upload-images.jianshu.io/upload_images/670659-03f1ce853db5b2be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图4 寻找文件"></p>
 </li>
 <li><p>将上述两个文件复制到图5所示 STARTUP 文件夹。当然要在资源管理器设置中开启了“显示隐藏文件夹”。</p>
@@ -51,10 +50,9 @@
 <li><p>这样PowerPoint 中就添加好了MathType工具栏了（图8）。</p>
 <p><img src="http://upload-images.jianshu.io/upload_images/670659-8735b5bec0a754f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图8 成功结果"></p>
 </li>
-</ol>
-<p>##最后<br>安利一个介绍 MathType 基本使用的网站：<a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a>。</p>
-<p>##参考</p>
-<ul>
+</ul>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a><strong>最后</strong></h2><p>安利一个介绍 MathType 基本使用的网站：<a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a>。</p>
+<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a><strong>参考</strong></h2><ul>
 <li><a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a></li>
 <li><a href="http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html" target="_blank" rel="external">http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html</a></li>
 </ul>
@@ -62,7 +60,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;##引言&lt;br&gt;对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;图1 mathtype工具栏&quot;&gt;&lt;br&gt;
+      &lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;&lt;strong&gt;引言&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;图1 mathtype工具栏&quot;&gt;&lt;br&gt;
     
     </summary>
     
