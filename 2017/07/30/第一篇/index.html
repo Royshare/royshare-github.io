@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next gemini use-motion" lang="zh-Hans">
+<html class="theme-next pisces use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -109,7 +109,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="Rui's World" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="Rui's Blog" type="application/atom+xml" />
 
 
 
@@ -125,11 +125,11 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="第一篇">
 <meta property="og:url" content="http://yoursite.com/2017/07/30/第一篇/index.html">
-<meta property="og:site_name" content="Rui&#39;s World">
+<meta property="og:site_name" content="Rui&#39;s Blog">
 <meta property="og:description" content="new APlayer({ 				element: document.getElementById(&quot;aplayer0&quot;), 				narrow: false, 				autoplay: false, 				showlrc: 0, 				music: { 					title: &quot;A song for love&quot;, 					author: &quot;春畑道哉&quot;, 					ur">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="https://ws1.sinaimg.cn/large/bcb354e0gy1fihounam7dj20t80t74qp.jpg">
-<meta property="og:updated_time" content="2017-08-12T22:35:34.796Z">
+<meta property="og:updated_time" content="2017-08-12T22:53:07.107Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="第一篇">
 <meta name="twitter:description" content="new APlayer({ 				element: document.getElementById(&quot;aplayer0&quot;), 				narrow: false, 				autoplay: false, 				showlrc: 0, 				music: { 					title: &quot;A song for love&quot;, 					author: &quot;春畑道哉&quot;, 					ur">
@@ -141,8 +141,8 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Gemini',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    scheme: 'Pisces',
+    sidebar: {"position":"right","display":"post","offset":12,"offset_float":12,"b2t":true,"scrollpercent":true,"onmobile":true},
     fancybox: true,
     tabs: true,
     motion: true,
@@ -168,7 +168,7 @@
 
 
 
-  <title>第一篇 | Rui's World</title>
+  <title>第一篇 | Rui's Blog</title>
   
 
 
@@ -197,7 +197,7 @@
     
   
 
-  <div class="container sidebar-position-left page-post-detail ">
+  <div class="container sidebar-position-right page-post-detail ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -208,7 +208,7 @@
     <div class="custom-logo-site-title">
       <a href="/"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">Rui's World</span>
+        <span class="site-title">Rui's Blog</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -352,7 +352,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Rui's World">
+      <meta itemprop="name" content="Rui's Blog">
     </span>
 
     
@@ -388,7 +388,7 @@
               
                 <span class="post-meta-item-text">更新于</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2017-08-12T17:35:34-05:00">
+              <time title="更新于" itemprop="dateModified" datetime="2017-08-12T17:53:07-05:00">
                 2017-08-12
               </time>
             
@@ -427,7 +427,7 @@
 
           
             <span class="post-meta-divider">|</span>
-            <span class="page-pv"><i class="fa fa-file-o"></i>
+            <span class="page-pv"><i class="fa fa-eye"></i>
             <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
             </span>
           
@@ -499,7 +499,7 @@
 <p>现在为止在新浪博客上写了两篇博文，简单介绍软件使用的一些小技巧。不过感觉每次从Onenote将草稿通过新浪博客的编辑器发布时，不好控制样式。</p>
 <p>而简书中能选择Markdown编辑器，只要稍微学习下十多条语法，就能方便地写出美观的文章。</p>
 <p><strong>内容与形式</strong>总归要统一的，虽然我现在文章的内容还很简单，但形式上如果能赏心悦目也能激励我继续地改进吧。</p>
-<p>####推荐阅读<br><a href="http://sspai.com/25137" target="_blank" rel="external">少数派-认识与入门Markdown</a><br><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">Markdown: Basics （快速入门）</a></p>
+<h4 id="推荐阅读"><a href="#推荐阅读" class="headerlink" title="推荐阅读"></a>推荐阅读</h4><p><a href="http://sspai.com/25137" target="_blank" rel="external">少数派-认识与入门Markdown</a><br><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">Markdown: Basics （快速入门）</a></p>
 
       
     </div>
@@ -626,6 +626,8 @@ var jiathis_config={
 
   <aside id="sidebar" class="sidebar">
     
+      <div id="sidebar-dimmer"></div>
+    
     <div class="sidebar-inner">
 
       
@@ -666,10 +668,10 @@ var jiathis_config={
             
             
             <div class="site-state-item site-state-categories">
-              
+              <a href="/categories/index.html">
                 <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">分类</span>
-              
+              </a>
             </div>
           
 
@@ -727,6 +729,12 @@ var jiathis_config={
 
         
         
+          <div class="cc-license motion-element" itemprop="license">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" target="_blank">
+              <img src="/images/cc-by-nc-sa.svg" alt="Creative Commons" />
+            </a>
+          </div>
+        
 
         
         
@@ -760,7 +768,7 @@ var jiathis_config={
 					pic: "",
 				}
 			});
-		</span></a></li></ol></div>
+		</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#推荐阅读"><span class="nav-number">1.0.1.</span> <span class="nav-text">推荐阅读</span></a></li></ol></li></ol></li></ol></div>
             
 
           </div>
@@ -768,6 +776,13 @@ var jiathis_config={
       <!--/noindex-->
       
 
+      
+        <div class="back-to-top">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
       
 
     </div>
@@ -798,7 +813,7 @@ var jiathis_config={
 <div class="theme-info">
   主题 -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-    NexT.Gemini
+    NexT.Pisces
   </a>
 </div>
 
@@ -838,11 +853,6 @@ var jiathis_config={
       </div>
     </footer>
 
-    
-      <div class="back-to-top">
-        <i class="fa fa-arrow-up"></i>
-        
-      </div>
     
 
   </div>
@@ -992,6 +1002,21 @@ var jiathis_config={
   
 
   
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
 
   
 

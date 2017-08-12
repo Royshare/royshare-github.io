@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rui&#39;s World</title>
+  <title>Rui&#39;s Blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
@@ -74,7 +74,7 @@
     <link href="http://yoursite.com/2017/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     <id>http://yoursite.com/2017/07/30/第一篇/</id>
     <published>2017-07-31T04:22:17.000Z</published>
-    <updated>2017-08-12T22:35:34.796Z</updated>
+    <updated>2017-08-12T22:53:07.107Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://ws1.sinaimg.cn/large/bcb354e0gy1fihounam7dj20t80t74qp.jpg" alt="开始"></p>
 <h2 id=""><a href="#" class="headerlink" title=""></a><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
@@ -95,7 +95,7 @@
 <p>现在为止在新浪博客上写了两篇博文，简单介绍软件使用的一些小技巧。不过感觉每次从Onenote将草稿通过新浪博客的编辑器发布时，不好控制样式。</p>
 <p>而简书中能选择Markdown编辑器，只要稍微学习下十多条语法，就能方便地写出美观的文章。</p>
 <p><strong>内容与形式</strong>总归要统一的，虽然我现在文章的内容还很简单，但形式上如果能赏心悦目也能激励我继续地改进吧。</p>
-<p>####推荐阅读<br><a href="http://sspai.com/25137" target="_blank" rel="external">少数派-认识与入门Markdown</a><br><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">Markdown: Basics （快速入门）</a></p>
+<h4 id="推荐阅读"><a href="#推荐阅读" class="headerlink" title="推荐阅读"></a>推荐阅读</h4><p><a href="http://sspai.com/25137" target="_blank" rel="external">少数派-认识与入门Markdown</a><br><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">Markdown: Basics （快速入门）</a></p>
 ]]></content>
     
     <summary type="html">

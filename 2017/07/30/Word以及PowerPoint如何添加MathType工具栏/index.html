@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next gemini use-motion" lang="zh-Hans">
+<html class="theme-next pisces use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -109,7 +109,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="Rui's World" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="Rui's Blog" type="application/atom+xml" />
 
 
 
@@ -125,7 +125,7 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="Word以及PowerPoint如何添加MathType工具栏">
 <meta property="og:url" content="http://yoursite.com/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/index.html">
-<meta property="og:site_name" content="Rui&#39;s World">
+<meta property="og:site_name" content="Rui&#39;s Blog">
 <meta property="og:description" content="引言对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
@@ -148,8 +148,8 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Gemini',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    scheme: 'Pisces',
+    sidebar: {"position":"right","display":"post","offset":12,"offset_float":12,"b2t":true,"scrollpercent":true,"onmobile":true},
     fancybox: true,
     tabs: true,
     motion: true,
@@ -175,7 +175,7 @@
 
 
 
-  <title>Word以及PowerPoint如何添加MathType工具栏 | Rui's World</title>
+  <title>Word以及PowerPoint如何添加MathType工具栏 | Rui's Blog</title>
   
 
 
@@ -204,7 +204,7 @@
     
   
 
-  <div class="container sidebar-position-left page-post-detail ">
+  <div class="container sidebar-position-right page-post-detail ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -215,7 +215,7 @@
     <div class="custom-logo-site-title">
       <a href="/"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">Rui's World</span>
+        <span class="site-title">Rui's Blog</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -359,7 +359,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Rui's World">
+      <meta itemprop="name" content="Rui's Blog">
     </span>
 
     
@@ -434,7 +434,7 @@
 
           
             <span class="post-meta-divider">|</span>
-            <span class="page-pv"><i class="fa fa-file-o"></i>
+            <span class="page-pv"><i class="fa fa-eye"></i>
             <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
             </span>
           
@@ -647,6 +647,8 @@ var jiathis_config={
 
   <aside id="sidebar" class="sidebar">
     
+      <div id="sidebar-dimmer"></div>
+    
     <div class="sidebar-inner">
 
       
@@ -687,10 +689,10 @@ var jiathis_config={
             
             
             <div class="site-state-item site-state-categories">
-              
+              <a href="/categories/index.html">
                 <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">分类</span>
-              
+              </a>
             </div>
           
 
@@ -748,6 +750,12 @@ var jiathis_config={
 
         
         
+          <div class="cc-license motion-element" itemprop="license">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" target="_blank">
+              <img src="/images/cc-by-nc-sa.svg" alt="Creative Commons" />
+            </a>
+          </div>
+        
 
         
         
@@ -775,6 +783,13 @@ var jiathis_config={
       <!--/noindex-->
       
 
+      
+        <div class="back-to-top">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
       
 
     </div>
@@ -805,7 +820,7 @@ var jiathis_config={
 <div class="theme-info">
   主题 -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-    NexT.Gemini
+    NexT.Pisces
   </a>
 </div>
 
@@ -845,11 +860,6 @@ var jiathis_config={
       </div>
     </footer>
 
-    
-      <div class="back-to-top">
-        <i class="fa fa-arrow-up"></i>
-        
-      </div>
     
 
   </div>
@@ -999,6 +1009,21 @@ var jiathis_config={
   
 
   
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
 
   
 
