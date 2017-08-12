@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rui&#39;s Home</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-08-12T05:35:25.959Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Rui L</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Word以及PowerPoint如何添加MathType工具栏</title>
+    <link href="http://yoursite.com/2017/07/30/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F/"/>
+    <id>http://yoursite.com/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/</id>
+    <published>2017-07-31T04:37:35.000Z</published>
+    <updated>2017-08-12T05:35:25.959Z</updated>
+    
+    <content type="html"><![CDATA[<p>##引言<br>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br><a id="more"></a><br><strong>本文涉及软件版本：</strong></p>
+<ul>
+<li>Microsoft Office 2016</li>
+<li>MathType 6.9 (13030500)​</li>
+<li>Windows10 资源管理器​</li>
+</ul>
+<p>##操作步骤：</p>
+<ol>
+<li><p>判断所安装的office版本。例如，进入 Word 后，点击文件-账户-关于Word。如图2所示。</p>
+<p> <img src="http://upload-images.jianshu.io/upload_images/670659-98a2394f0f739b6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图2 Office版本"></p>
+</li>
+<li><p>找到 MathType安装目录下的MathPage和Office support文件夹，根据上一步确定的word版本，选择对应的32位或者64位文件夹，分别找到文件“MathPage.wll”和“MathType Commands 6 For Word 2010/2013”进行复制。至于选择2010或2013要依据安装的Office版本。如果是 Word2016 则选择“MathType Commands 6 For Word 2013”。如图3、图4所示。</p>
+<p> <img src="http://upload-images.jianshu.io/upload_images/670659-ab55f7cc23976b7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图3 寻找文件"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/670659-03f1ce853db5b2be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图4 寻找文件"></p>
+</li>
+<li><p>将上述两个文件复制到图5所示 STARTUP 文件夹。当然要在资源管理器设置中开启了“显示隐藏文件夹”。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/670659-74c407dc0bf4e1a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图5 拷贝文件"></p>
+</li>
+<li><p>下面在图4中找到 MathType AddIn (PowerPoint 2010)/(PowerPoint 2013) 文件，选择2010或2013仍一句安装的Office版本。如果是 Power Point 2016 也选择MathType AddIn (Power Point 2013)。</p>
+</li>
+<li><p>将该文件复制到图6所示 AddIns 文件夹。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/670659-4cfaf02c0f78471c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图6 拷贝文件"></p>
+</li>
+<li><p>然后可能要进行的操作：进入PowerPoint 2016-文件-选项-加载项-管理：PowerPoint 加载项中添加这个文件。如图7所示。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/670659-c9b28432cf4f290c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图7 添加工具栏"></p>
+</li>
+<li><p>这样PowerPoint 中就添加好了MathType工具栏了（图8）。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/670659-8735b5bec0a754f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图8 成功结果"></p>
+</li>
+</ol>
+<p>##最后<br>安利一个介绍 MathType 基本使用的网站：<a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a>。</p>
+<p>##参考</p>
+<ul>
+<li><a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a></li>
+<li><a href="http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html" target="_blank" rel="external">http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##引言&lt;br&gt;对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;图1 mathtype工具栏&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Quality" scheme="http://yoursite.com/categories/Quality/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="http://yoursite.com/2017/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2017/07/30/第一篇/</id>
+    <published>2017-07-31T04:22:17.000Z</published>
+    <updated>2017-08-12T05:32:56.066Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>写在开头：这是在<a href="http://www.jianshu.com/p/ef061ed2ee62" target="_blank" rel="external">简书</a>写的第一篇文章。由于简书Markdown并不支持数学符号输入，在偶然发现Github Pages也能建立网页进行分享后，决定同时使用这两个网站。现在还在完善Github Pages中 :)</em><br><a id="more"></a><br>知识的掌握，很重要的一步是<strong>输出</strong>。所以我决定，从今年开始通过写作来留下一些<strong>自我存在的痕迹</strong>。</p>
+<p>现在为止在新浪博客上写了两篇博文，简单介绍软件使用的一些小技巧。不过感觉每次从Onenote将草稿通过新浪博客的编辑器发布时，不好控制样式。</p>
+<p>而简书中能选择Markdown编辑器，只要稍微学习下十多条语法，就能方便地写出美观的文章。</p>
+<p><strong>内容与形式</strong>总归要统一的，虽然我现在文章的内容还很简单，但形式上如果能赏心悦目也能激励我继续地改进吧。</p>
+<p>####推荐阅读<br><a href="http://sspai.com/25137" target="_blank" rel="external">少数派-认识与入门Markdown</a><br><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">Markdown: Basics （快速入门）</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;写在开头：这是在&lt;a href=&quot;http://www.jianshu.com/p/ef061ed2ee62&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;简书&lt;/a&gt;写的第一篇文章。由于简书Markdown并不支持数学符号输入，在偶然发现Github Pages也能建立网页进行分享后，决定同时使用这两个网站。现在还在完善Github Pages中 :)&lt;/em&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Roy" scheme="http://yoursite.com/categories/Roy/"/>
+    
+    
+  </entry>
+  
+</feed>

@@ -14,6 +14,13 @@
 
 
 
+  
+  
+    
+    
+  <script src="/lib/pace/pace.min.js?v=1.0.2"></script>
+  <link href="/lib/pace/pace-theme-minimal.min.css?v=1.0.2" rel="stylesheet">
+
 
 
 
@@ -55,17 +62,35 @@
   
 
   
+    
+      
+    
 
-  
-
+    
   
 
   
 
   
     
+      
     
-    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|Lobster Two:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
   
 
 
@@ -83,6 +108,8 @@
 
 
 
+
+  <link rel="alternate" href="/atom.xml" title="Rui's Home" type="application/atom+xml" />
 
 
 
@@ -211,6 +238,16 @@
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
             
             首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
           </a>
         </li>
       
@@ -347,6 +384,28 @@
           </span>
 
           
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Quality/" itemprop="url" rel="index">
+                    <span itemprop="name">Quality</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
 
           
             
@@ -375,45 +434,14 @@
 
       
         
-          
-            <p>##引言<br>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br><strong>本文涉及软件版本：</strong></p>
-<ul>
-<li>Microsoft Office 2016</li>
-<li>MathType 6.9 (13030500)​</li>
-<li>Windows10 资源管理器​</li>
-</ul>
-<p>##操作步骤：</p>
-<ol>
-<li><p>判断所安装的office版本。例如，进入 Word 后，点击文件-账户-关于Word。如图2所示。</p>
-<p> <img src="http://upload-images.jianshu.io/upload_images/670659-98a2394f0f739b6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图2 Office版本"></p>
-</li>
-<li><p>找到 MathType安装目录下的MathPage和Office support文件夹，根据上一步确定的word版本，选择对应的32位或者64位文件夹，分别找到文件“MathPage.wll”和“MathType Commands 6 For Word 2010/2013”进行复制。至于选择2010或2013要依据安装的Office版本。如果是 Word2016 则选择“MathType Commands 6 For Word 2013”。如图3、图4所示。</p>
-<p> <img src="http://upload-images.jianshu.io/upload_images/670659-ab55f7cc23976b7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图3 寻找文件"></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/670659-03f1ce853db5b2be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图4 寻找文件"></p>
-</li>
-<li><p>将上述两个文件复制到图5所示 STARTUP 文件夹。当然要在资源管理器设置中开启了“显示隐藏文件夹”。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/670659-74c407dc0bf4e1a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图5 拷贝文件"></p>
-</li>
-<li><p>下面在图4中找到 MathType AddIn (PowerPoint 2010)/(PowerPoint 2013) 文件，选择2010或2013仍一句安装的Office版本。如果是 Power Point 2016 也选择MathType AddIn (Power Point 2013)。</p>
-</li>
-<li><p>将该文件复制到图6所示 AddIns 文件夹。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/670659-4cfaf02c0f78471c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图6 拷贝文件"></p>
-</li>
-<li><p>然后可能要进行的操作：进入PowerPoint 2016-文件-选项-加载项-管理：PowerPoint 加载项中添加这个文件。如图7所示。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/670659-c9b28432cf4f290c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图7 添加工具栏"></p>
-</li>
-<li><p>这样PowerPoint 中就添加好了MathType工具栏了（图8）。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/670659-8735b5bec0a754f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图8 成功结果"></p>
-</li>
-</ol>
-<p>##最后<br>安利一个介绍 MathType 基本使用的网站：<a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a>。</p>
-<p>##参考</p>
-<ul>
-<li><a href="http://www.mathtype.cn/jiqiao/" target="_blank" rel="external">http://www.mathtype.cn/jiqiao/</a></li>
-<li><a href="http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html" target="_blank" rel="external">http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html</a></li>
-</ul>
-
-          
+          <p>##引言<br>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -502,6 +530,28 @@
           </span>
 
           
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Roy/" itemprop="url" rel="index">
+                    <span itemprop="name">Roy</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
 
           
             
@@ -530,15 +580,14 @@
 
       
         
-          
-            <p><em>写在开头：这是在<a href="http://www.jianshu.com/p/ef061ed2ee62" target="_blank" rel="external">简书</a>写的第一篇文章。由于简书Markdown并不支持数学符号输入，在偶然发现Github Pages也能建立网页进行分享后，决定同时使用这两个网站。现在还在完善Github Pages中 :)</em></p>
-<p>知识的掌握，很重要的一步是<strong>输出</strong>。所以我决定，从今年开始通过写作来留下一些<strong>自我存在的痕迹</strong>。</p>
-<p>现在为止在新浪博客上写了两篇博文，简单介绍软件使用的一些小技巧。不过感觉每次从Onenote将草稿通过新浪博客的编辑器发布时，不好控制样式。</p>
-<p>而简书中能选择Markdown编辑器，只要稍微学习下十多条语法，就能方便地写出美观的文章。</p>
-<p><strong>内容与形式</strong>总归要统一的，虽然我现在文章的内容还很简单，但形式上如果能赏心悦目也能激励我继续地改进吧。</p>
-<p>####推荐阅读<br><a href="http://sspai.com/25137" target="_blank" rel="external">少数派-认识与入门Markdown</a><br><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">Markdown: Basics （快速入门）</a></p>
-
-          
+          <p><em>写在开头：这是在<a href="http://www.jianshu.com/p/ef061ed2ee62" target="_blank" rel="external">简书</a>写的第一篇文章。由于简书Markdown并不支持数学符号输入，在偶然发现Github Pages也能建立网页进行分享后，决定同时使用这两个网站。现在还在完善Github Pages中 :)</em><br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/07/30/第一篇/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -625,23 +674,54 @@
           
 
           
-
-          
             
             
-            <div class="site-state-item site-state-tags">
+            <div class="site-state-item site-state-categories">
               
                 <span class="site-state-item-count">2</span>
-                <span class="site-state-item-name">标签</span>
+                <span class="site-state-item-name">分类</span>
               
             </div>
+          
+
           
 
         </nav>
 
         
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
 
         <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/Royshare" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                    
+                      GitHub
+                    
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.weibo.com/u/3165869280" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                    
+                      Weibo
+                    
+                </a>
+              </span>
+            
           
         </div>
 
@@ -694,6 +774,26 @@
 
 
         
+<div class="busuanzi-count">
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv">
+      <i class="fa fa-user"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+      
+    </span>
+  
+
+  
+    <span class="site-pv">
+      <i class="fa fa-eye"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+      
+    </span>
+  
+</div>
+
 
 
 
@@ -733,6 +833,8 @@
   
 
 
+  
+
 
 
 
@@ -760,6 +862,9 @@
 
   
   <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+  
+  <script type="text/javascript" src="/lib/canvas-nest/canvas-nest.min.js"></script>
 
 
   
@@ -847,6 +952,28 @@
   
 
   
+  
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+      });
+    </script>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for (i=0; i < all.length; i += 1) {
+          all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+      });
+    </script>
+    <script type="text/javascript" src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
 
   
 
