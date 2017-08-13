@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://royshare.github.io/"/>
   <updated>2017-08-13T04:19:36.854Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://royshare.github.io/</id>
   
   <author>
     <name>Rui L</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Word以及PowerPoint如何添加MathType工具栏</title>
-    <link href="http://yoursite.com/2017/07/30/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F/"/>
-    <id>http://yoursite.com/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/</id>
+    <link href="https://royshare.github.io/2017/07/30/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F/"/>
+    <id>https://royshare.github.io/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/</id>
     <published>2017-07-31T04:37:35.000Z</published>
     <updated>2017-08-13T04:19:36.854Z</updated>
     
@@ -64,15 +64,15 @@
     
     </summary>
     
-      <category term="Quality" scheme="http://yoursite.com/categories/Quality/"/>
+      <category term="Quality" scheme="https://royshare.github.io/categories/Quality/"/>
     
     
   </entry>
   
   <entry>
     <title>第一篇</title>
-    <link href="http://yoursite.com/2017/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>http://yoursite.com/2017/07/30/第一篇/</id>
+    <link href="https://royshare.github.io/2017/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>https://royshare.github.io/2017/07/30/第一篇/</id>
     <published>2017-07-31T04:22:17.000Z</published>
     <updated>2017-08-12T22:53:07.107Z</updated>
     
@@ -119,7 +119,7 @@
     
     </summary>
     
-      <category term="Roy" scheme="http://yoursite.com/categories/Roy/"/>
+      <category term="Roy" scheme="https://royshare.github.io/categories/Roy/"/>
     
     
   </entry>
