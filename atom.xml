@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://royshare.github.io/"/>
-  <updated>2017-08-14T01:57:18.023Z</updated>
+  <updated>2017-08-14T03:02:13.360Z</updated>
   <id>https://royshare.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://royshare.github.io/2017/07/30/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F/"/>
     <id>https://royshare.github.io/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/</id>
     <published>2017-07-31T04:37:35.000Z</published>
-    <updated>2017-08-14T01:57:18.023Z</updated>
+    <updated>2017-08-14T03:02:13.360Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a><strong>引言</strong></h2><p>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br><a id="more"></a></p>
 <h2 id="本文涉及软件版本"><a href="#本文涉及软件版本" class="headerlink" title="本文涉及软件版本"></a><strong>本文涉及软件版本</strong></h2><ul>
