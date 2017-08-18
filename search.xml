@@ -6,7 +6,7 @@
       <title><![CDATA[Word自带公式输入功能的使用]]></title>
       <url>/2017/08/17/Word%20equation%20basic%20use/</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><em>本文内容也在<a href="http://www.jianshu.com/p/261eaa291808" target="_blank" rel="external">简书</a>同步发布。</em></p>
-<h2 id="0-前言"><a href="#0-前言" class="headerlink" title="0. 前言"></a>0. 前言</h2><p>一直以来认为Word自带的公式输入功能并不方便使用，所以一直使用MathType来输入公式。但以前使用MathType输入公式也有其局限：采用点击法输入速度不够快；当共享包含有MathType公式的doc文档给别人时，别人必须也安装了MathType才能修改其中的公式。直到最近了解到Word的公式功能支持类似于LaTex的输入方式，才学习了利用其输入简单数学公式。</p>
+<h2 id="0-前言"><a href="#0-前言" class="headerlink" title="0. 前言"></a>0. 前言</h2><p>一直以来认为Word自带的公式输入功能并不方便使用，所以一直使用MathType来输入公式。但以前使用MathType输入公式也有其局限：采用点击法输入速度不够快；当共享包含有MathType公式的doc文档给别人时，别人必须也安装了MathType才能修改其中的公式。直到最近了解到Word的公式功能支持类似于LaTex的输入方式，才学习了利用其输入简单数学公式。<br><a id="more"></a></p>
 <h2 id="1-开始输入公式"><a href="#1-开始输入公式" class="headerlink" title="1. 开始输入公式"></a>1. 开始输入公式</h2><p>同时按住<code>Alt + =</code>。这时你会发现文档编辑区出现了公式输入框，在功能区也出现了公式编辑器栏。 </p>
 <h2 id="2-字体准备"><a href="#2-字体准备" class="headerlink" title="2. 字体准备"></a>2. 字体准备</h2><p>为了将字体转变成斜体，按下<code>Ctrl + I</code>;当然在英文输入法下公式默认为斜体。</p>
 <h2 id="3-命令结构"><a href="#3-命令结构" class="headerlink" title="3. 命令结构"></a>3. 命令结构</h2><p>公式命令由<code>\</code>开始，以<code>space</code>结束。 当以空格结束时自动显示公式结果。</p>
