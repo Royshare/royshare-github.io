@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://royshare.github.io/"/>
-  <updated>2017-08-18T02:00:53.860Z</updated>
+  <updated>2017-12-23T22:02:23.000Z</updated>
   <id>http://royshare.github.io/</id>
   
   <author>
@@ -16,11 +16,69 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://royshare.github.io/2018/01/01/%E6%9A%97%E6%97%B6%E9%97%B4%E7%AC%94%E8%AE%B0%E5%8F%8A%E8%AF%BB%E5%90%8E%E6%84%9F.resource/commit/"/>
+    <id>http://royshare.github.io/2018/01/01/暗时间笔记及读后感.resource/commit/</id>
+    <published>2018-01-01T23:10:36.138Z</published>
+    <updated>2017-12-23T22:02:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>{"compress":true,"commitItems":[["d8c4154b-81a3-45df-b69a-21085099c567",1514066242962,"",[[1514066217985,["lr546@Rui-Surface",[[1,0,"暗时间笔记及读后感\n===\n\n\n"]],[0,0],[16,16]]],[1514066233121,["lr546@Rui-Surface",[[-1,15,"\n"],[1,16,"---"]],[15,15],[18,18]]],[1514066234241,["lr546@Rui-Surface",[[1,18,"\n\n"]],[18,18],[19,19]]],[1514066260495,["lr546@Rui-Surface",[[1,19,"title: Word以及PowerPoint如何添加MathType工具栏\ndate: 2017-07-30 23:37:35\ncategories: Quality\ndonate: true"]],[19,19],[116,116]]],[1514066263009,["lr546@Rui-Surface",[[1,117,"\n"]],[116,116],[117,117]]],[1514066263720,["lr546@Rui-Surface",[[-1,117,"\n"],[1,118,"---"]],[117,117],[120,120]]],[1514066269925,["lr546@Rui-Surface",[[1,120,"\n\n"]],[120,120],[121,121]]],[1514066289463,["lr546@Rui-Surface",[[-1,104,"donate"]],[110,110],[104,104]]],[1514066290002,["lr546@Rui-Surface",[[-1,103,"\n"]],[104,104],[103,103]]],[1514066290726,["lr546@Rui-Surface",[[1,103,"\n"]],[103,103],[104,104]]],[1514066291879,["lr546@Rui-Surface",[[-1,103,"\n"]],[104,104],[103,103]]],[1514066295499,["lr546@Rui-Surface",[[1,103,"\n"]],[103,103],[104,104]]],[1514066297849,["lr546@Rui-Surface",[[-1,15,"---"]],[18,18],[15,15]]],[1514066298938,["lr546@Rui-Surface",[[1,15,"---"]],[15,15],[18,18]]],[1514066300744,["lr546@Rui-Surface",[[-1,15,"---"]],[18,18],[15,15]]],[1514066302603,["lr546@Rui-Surface",[[1,15,"---"]],[15,15],[18,18]]],[1514066305362,["lr546@Rui-Surface",[[-1,14,"\n"]],[14,14],[13,13]]],[1514066310832,["lr546@Rui-Surface",[[-1,14,"---\ntitle: Word以及PowerPoint如何添加MathType工具栏\ndate: 2017-07-30 23:37:35\ncategories: Quality\n: true\n---"]],[14,113],[14,14]]],[1514066312942,["lr546@Rui-Surface",[[1,0,"\n"]],[0,0],[1,1]]],[1514066315788,["lr546@Rui-Surface",[[1,0,"---\ntitle: Word以及PowerPoint如何添加MathType工具栏\ndate: 2017-07-30 23:37:35\ncategories: Quality\n: true\n---"]],[0,0],[99,99]]],[1514066322428,["lr546@Rui-Surface",[[1,114,"f"]],[113,114],[115,115]]],[1514066323763,["lr546@Rui-Surface",[[-1,114,"f"]],[115,115],[114,114]]],[1514066327180,["lr546@Rui-Surface",[[1,89,"donate"]],[89,89],[95,95]]],[1514066357270,["lr546@Rui-Surface",[[1,120,"---"]],[120,120],[123,123]]],[1514066357546,["lr546@Rui-Surface",[[1,125,"\n"]],[123,123],[124,124]]],[1514066373415,["lr546@Rui-Surface",[[-1,11,"Word以及PowerPoint如何添加MathType工具栏"]],[42,42],[11,11]]],[1514066374370,["lr546@Rui-Surface",[[1,11,"anshi"]],[11,11],[16,16]]],[1514066375308,["lr546@Rui-Surface",[[-1,11,"anshi"]],[16,16],[11,11]]],[1514066379511,["lr546@Rui-Surface",[[1,11,"暗时间笔记记"]],[11,11],[17,17]]],[1514066379818,["lr546@Rui-Surface",[[-1,16,"记"]],[17,17],[16,16]]],[1514066382203,["lr546@Rui-Surface",[[1,16,"及读后感"]],[16,16],[20,20]]],[1514066386481,["lr546@Rui-Surface",[[-1,32,"07"]],[34,34],[32,32]]],[1514066386895,["lr546@Rui-Surface",[[1,32,"12"]],[32,32],[34,34]]],[1514066388757,["lr546@Rui-Surface",[[-1,35,"30"]],[37,37],[35,35]]],[1514066389476,["lr546@Rui-Surface",[[1,35,"23"]],[35,35],[37,37]]],[1514066392115,["lr546@Rui-Surface",[[-1,38,"23"]],[40,40],[38,38]]],[1514066392601,["lr546@Rui-Surface",[[1,38,"15"]],[38,38],[40,40]]],[1514066394968,["lr546@Rui-Surface",[[-1,41,"37"]],[43,43],[41,41]]],[1514066395567,["lr546@Rui-Surface",[[1,41,"59"]],[41,41],[43,43]]],[1514066397552,["lr546@Rui-Surface",[[-1,44,"35"]],[46,46],[44,44]]],[1514066397976,["lr546@Rui-Surface",[[1,44,"00"]],[44,44],[46,46]]],[1514066402174,["lr546@Rui-Surface",[[-1,59,"Quality"]],[66,66],[59,59]]],[1514066403877,["lr546@Rui-Surface",[[1,59,"Roy"]],[59,59],[62,62]]],[1514066410048,["lr546@Rui-Surface",[[-1,71,"true"]],[75,75],[71,71]]],[1514066411096,["lr546@Rui-Surface",[[1,71,"false"]],[71,71],[76,76]]],[1514066415851,["lr546@Rui-Surface",[[-1,81,"暗时间笔记及读后感"]],[90,90],[81,81]]],[1514066415885,["lr546@Rui-Surface",[[-1,81,"\n"]],[81,81],[80,80]]],[1514066415984,["lr546@Rui-Surface",[[-1,77,"---"]],[80,80],[77,77]]],[1514066419221,["lr546@Rui-Surface",[[1,77,"---"]],[77,77],[80,80]]],[1514066423619,["lr546@Rui-Surface",[[-1,81,"==="]],[82,82],[81,81]]],[1514066424728,["lr546@Rui-Surface",[[-1,81,"\n"]],[81,81],[81,81]]],[1514066437407,["lr546@Rui-Surface",[[1,85,"## ff"]],[85,85],[90,90]]],[1514066438375,["lr546@Rui-Surface",[[-1,88,"ff"]],[90,90],[88,88]]],[1514066440833,["lr546@Rui-Surface",[[1,88,"biji"]],[88,88],[92,92]]],[1514066441708,["lr546@Rui-Surface",[[-1,88,"biji"]],[92,92],[88,88]]],[1514066444259,["lr546@Rui-Surface",[[1,88,"笔记"]],[88,88],[90,90]]],[1514066447624,["lr546@Rui-Surface",[[1,88,"**"]],[88,88],[90,90]]],[1514066449959,["lr546@Rui-Surface",[[1,92,"**"]],[92,92],[94,94]]],[1514066451344,["lr546@Rui-Surface",[[1,96,"\n"]],[94,94],[95,95]]],[1514066470821,["lr546@Rui-Surface",[[1,97,"\n"]],[94,94],[95,95]]],[1514066471053,["lr546@Rui-Surface",[[1,98,"\n"]],[95,95],[96,96]]],[1514066471222,["lr546@Rui-Surface",[[1,99,"\n"]],[96,96],[97,97]]],[1514066478659,["lr546@Rui-Surface",[[1,97,"##**读后感**"]],[97,97],[106,106]]],[1514066485351,["lr546@Rui-Surface",[[1,99," "]],[99,99],[100,100]]]]]]}]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;{&quot;compress&quot;:true,&quot;commitItems&quot;:[[&quot;d8c4154b-81a3-45df-b69a-21085099c567&quot;,1514066242962,&quot;&quot;,[
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://royshare.github.io/2018/01/01/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F.resource/commit/"/>
+    <id>http://royshare.github.io/2018/01/01/Word以及PowerPoint如何添加MathType工具栏.resource/commit/</id>
+    <published>2018-01-01T23:10:36.122Z</published>
+    <updated>2017-12-23T21:59:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>{"compress":true,"commitItems":[["9fb09a74-936a-42d4-ac48-cb388ba3126f",1514066373883,"---\ntitle: Word以及PowerPoint如何添加MathType工具栏\ndate: 2017-07-30 23:37:35\ncategories: Quality\ndonate: true\n---\n## **引言**\n对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。\n![图1 mathtype工具栏](http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n<a id="more"></a>\n## **本文涉及软件版本**\n- Microsoft Office 2016\n- MathType 6.9 (13030500)​\n- Windows10 资源管理器​\n\n## **操作步骤**\n-  判断所安装的office版本。例如，进入 Word 后，点击文件-账户-关于Word。如图2所示。\n\n    ![图2 Office版本](http://upload-images.jianshu.io/upload_images/670659-98a2394f0f739b6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n- 找到 MathType安装目录下的MathPage和Office support文件夹，根据上一步确定的word版本，选择对应的32位或者64位文件夹，分别找到文件“MathPage.wll”和“MathType Commands 6 For Word 2010/2013”进行复制。至于选择2010或2013要依据安装的Office版本。如果是 Word2016 则选择“MathType Commands 6 For Word 2013”。如图3、图4所示。\n\n    ![图3 寻找文件](http://upload-images.jianshu.io/upload_images/670659-ab55f7cc23976b7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n  ![图4 寻找文件](http://upload-images.jianshu.io/upload_images/670659-03f1ce853db5b2be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n- 将上述两个文件复制到图5所示 STARTUP 文件夹。当然要在资源管理器设置中开启了“显示隐藏文件夹”。\n\n  ![图5 拷贝文件](http://upload-images.jianshu.io/upload_images/670659-74c407dc0bf4e1a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n- 下面在图4中找到 MathType AddIn (PowerPoint 2010)/(PowerPoint 2013) 文件，选择2010或2013仍一句安装的Office版本。如果是 Power Point 2016 也选择MathType AddIn (Power Point 2013)。\n\n- 将该文件复制到图6所示 AddIns 文件夹。\n\n  ![图6 拷贝文件](http://upload-images.jianshu.io/upload_images/670659-4cfaf02c0f78471c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n-  然后可能要进行的操作：进入PowerPoint 2016-文件-选项-加载项-管理：PowerPoint 加载项中添加这个文件。如图7所示。\n\n  ![图7 添加工具栏](http://upload-images.jianshu.io/upload_images/670659-c9b28432cf4f290c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n- 这样PowerPoint 中就添加好了MathType工具栏了（图8）。\n\n  ![图8 成功结果](http://upload-images.jianshu.io/upload_images/670659-8735b5bec0a754f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n\n## **最后**\n安利一个介绍 MathType 基本使用的网站：[http://www.mathtype.cn/jiqiao/](http://www.mathtype.cn/jiqiao/)。\n## **参考**\n- http://www.mathtype.cn/jiqiao/\n- [http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html](http://jingyan.baidu.com/article/a378c960b1b133b3282830fc.html)",[[1514066340635,["lr546@Rui-Surface",[[1,106,"\n"],[-1,128," "],[1,129," "],[-1,133," "],[1,134," "],[-1,171," "],[1,172," "],[-1,180," "],[1,181," "],[-1,198," "],[1,199," "],[-1,208," "],[1,209," "],[-1,242," "],[1,243," "],[-1,251," "],[1,252," "],[-1,294," "],[1,295," "],[-1,299," 和 "],[1,302," 和 "],[-1,317," "],[1,318," "],[-1,611," "],[1,612," "],[-1,616," "],[1,617," "],[-1,963," "],[1,964," "],[-1,972," "],[1,973," "],[-1,1321," "],[1,1322," "],[-1,1329," "],[1,1330," "],[-1,1511," "],[1,1512," "],[-1,1562," "],[1,1563," "],[-1,1595," "],[1,1596," "],[-1,1612," "],[1,1613," "],[-1,1665," "],[1,1666," "],[-1,1672," "],[1,1673," "],[-1,1874," "],[1,1875," "],[-1,2049," "],[1,2050," "],[-1,2231," "],[1,2232," word"]],[105,105],[110,110]]],[1514066340979,["lr546@Rui-Surface",[[1,111,"\n"]],[110,110],[111,111]]],[1514066342009,["lr546@Rui-Surface",[[1,111,"==="]],[111,111],[114,114]]],[1514066344611,["lr546@Rui-Surface",[[1,115,"\n"]],[114,114],[115,115]]],[1514066345434,["lr546@Rui-Surface",[[1,115,"---"]],[115,115],[118,118]]],[1514066348225,["lr546@Rui-Surface",[[-1,115,"---"]],[118,118],[115,115]]],[1514066348420,["lr546@Rui-Surface",[[-1,115,"\n"]],[115,115],[114,114]]],[1514066349691,["lr546@Rui-Surface",[[-1,111,"==="]],[114,114],[111,111]]],[1514066349827,["lr546@Rui-Surface",[[-1,111,"\n"]],[111,111],[110,110]]],[1514066350753,["lr546@Rui-Surface",[[-1,106,"word"]],[110,110],[106,106]]],[1514066351104,["lr546@Rui-Surface",[[-1,106,"\n"]],[106,106],[105,105]]]]]]}]]></content>
+    
+    <summary type="html">
+    
+      {&quot;compress&quot;:true,&quot;commitItems&quot;:[[&quot;9fb09a74-936a-42d4-ac48-cb388ba3126f&quot;,1514066373883,&quot;---\ntitle: Word以及PowerPoint如何添加MathType工具栏\ndate: 2017-07-30 23:37:35\ncategories: Quality\ndonate: true\n---\n## **引言**\n对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。\n![图1 mathtype工具栏](http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\n
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>暗时间笔记及读后感</title>
+    <link href="http://royshare.github.io/2017/12/23/%E6%9A%97%E6%97%B6%E9%97%B4%E7%AC%94%E8%AE%B0%E5%8F%8A%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    <id>http://royshare.github.io/2017/12/23/暗时间笔记及读后感/</id>
+    <published>2017-12-23T21:59:00.000Z</published>
+    <updated>2017-12-23T22:02:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+<h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a><strong>笔记</strong></h2><h2 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a><strong>读后感</strong></h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;hr&gt;
+&lt;h2 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;&lt;strong&gt;笔记&lt;/strong&gt;&lt;/h2&gt;&lt;
+    
+    </summary>
+    
+      <category term="Roy" scheme="http://royshare.github.io/categories/Roy/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Word自带公式输入功能的使用</title>
     <link href="http://royshare.github.io/2017/08/17/Word%20equation%20basic%20use/"/>
     <id>http://royshare.github.io/2017/08/17/Word equation basic use/</id>
-    <published>2017-08-18T01:27:39.000Z</published>
-    <updated>2017-08-18T02:00:53.860Z</updated>
+    <published>2017-08-18T02:27:39.000Z</published>
+    <updated>2017-08-18T02:00:53.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><em>本文内容也在<a href="http://www.jianshu.com/p/261eaa291808" target="_blank" rel="external">简书</a>同步发布。</em></p>
 <h2 id="0-前言"><a href="#0-前言" class="headerlink" title="0. 前言"></a>0. 前言</h2><p>一直以来认为Word自带的公式输入功能并不方便使用，所以一直使用MathType来输入公式。但以前使用MathType输入公式也有其局限：采用点击法输入速度不够快；当共享包含有MathType公式的doc文档给别人时，别人必须也安装了MathType才能修改其中的公式。直到最近了解到Word的公式功能支持类似于LaTex的输入方式，才学习了利用其输入简单数学公式。<br><a id="more"></a></p>
@@ -414,8 +472,8 @@
     <title>Word以及PowerPoint如何添加MathType工具栏</title>
     <link href="http://royshare.github.io/2017/07/30/Word%E4%BB%A5%E5%8F%8APowerPoint%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0MathType%E5%B7%A5%E5%85%B7%E6%A0%8F/"/>
     <id>http://royshare.github.io/2017/07/30/Word以及PowerPoint如何添加MathType工具栏/</id>
-    <published>2017-07-31T04:37:35.000Z</published>
-    <updated>2017-08-14T03:02:13.360Z</updated>
+    <published>2017-07-31T05:37:35.000Z</published>
+    <updated>2017-12-23T21:59:33.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a><strong>引言</strong></h2><p>对于理工科学生，如果使用 Word 作为论文排版工具，或者在使用PowerPoint制作演示文稿时，通常会使用 MathType 来输入公式。由于各种原因（比如旧版 MathType对 Microsoft Office 2016兼容性不好），在正确安装 MathType 后不能在Word以及PowerPoint中显示出工具栏（如图1所示）。下面介绍如何在 Word 和 Powerpoint中重新添加 MathType工具栏。<br><img src="http://upload-images.jianshu.io/upload_images/670659-b2ddf5997252c51b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图1 mathtype工具栏"><br><a id="more"></a></p>
 <h2 id="本文涉及软件版本"><a href="#本文涉及软件版本" class="headerlink" title="本文涉及软件版本"></a><strong>本文涉及软件版本</strong></h2><ul>
@@ -468,8 +526,8 @@
     <title>第一篇</title>
     <link href="http://royshare.github.io/2017/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     <id>http://royshare.github.io/2017/07/30/第一篇/</id>
-    <published>2017-07-31T04:22:17.000Z</published>
-    <updated>2017-08-12T22:53:07.107Z</updated>
+    <published>2017-07-31T05:22:17.000Z</published>
+    <updated>2017-08-12T22:53:07.000Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://ws1.sinaimg.cn/large/bcb354e0gy1fihounam7dj20t80t74qp.jpg" alt="开始"></p>
 <h2 id=""><a href="#" class="headerlink" title=""></a><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div>
